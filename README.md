@@ -2,4 +2,4 @@
 
 Property rental platform for Zimbabwe.
 
-**Website:** https://your-username.github.io/zimprops
+**Website:** https://rentals.github.io/zimprops
